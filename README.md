@@ -1,4 +1,5 @@
 # TheROLODEX
+A personalized rolodex to keep you on-top of your relationships.
 ### 1 Backend
 **Language:** Python (Django) \
 **Database:** PostgresSQL (maybe Neo4j later for graph) \
